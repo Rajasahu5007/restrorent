@@ -1,4 +1,4 @@
-Kings Restaurant Web Application
+# Kings Restaurant Web Application
 A simple, responsive web application designed for a restaurant, built using HTML and CSS. This project aims to provide a sleek and modern design for restaurant owners to showcase their menu, services, and contact information. It features a clean layout, easy navigation, and responsive design for mobile and desktop users.
 
 Features:
